@@ -1,0 +1,59 @@
+.box {
+    color: white;
+    font-size: 100px;
+    text-align: center;
+    padding: 10px;
+    box-sizing: border-box;
+    flex: 1;
+   
+
+
+   
+}
+
+.box1 {
+    background-color: aqua;
+
+
+}
+
+.box2 {
+        background-color: rgb(45, 0, 150);
+}
+.box3 {
+    background-color: bisque;
+    order: 1;
+
+}
+.box4 {
+        background-color: mediumvioletred;
+        order: 3;
+}
+.box5 {
+        background-color: darkgoldenrod;
+        order: 2;
+}
+.box6 {
+        background-color: darkslateblue;
+}
+.box7 {
+        background-color: darkred;
+}
+.box8 {
+    background-color: rgb(0, 255, 64);
+}
+.box9 {
+    background-color: rgb(34, 0, 253);
+}
+.box10 {
+    background-color: rgb(221, 255, 0);
+}
+
+.container {
+    display: flex;
+   
+
+
+
+}
+
